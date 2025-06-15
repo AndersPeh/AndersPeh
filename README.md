@@ -1,5 +1,11 @@
 # 💫 About Me:
-My passion for software development motivates me to self-learn React (TypeScipt) and .NET (C#) and build my personal project in my free time. I am eager to contribute to team projects while working alongside experienced developers. As such, I am seeking a software development internship to start from July or earlier.<br>I have worked with several organisations in the Gold Coast to build websites for them from scratch. This experience has enabled me to quickly understand the diverse requirements of organisations across different industries. I enjoy working collaboratively within a team and designing websites tailored to organisations’ specific needs. These projects have honed my ability to communicate effectively with diverse stakeholders including those without a technical background and have further developed my teamwork and communication skills.
+My passion for software development motivates me to self-learn React (TypeScipt) and .NET (C#) and build my personal project in my free time. <br /> 
+I am eager to contribute to team projects while working alongside experienced developers. <br /> 
+As such, I am seeking a software development internship to start from July or earlier. <br />
+I have worked with several organisations in the Gold Coast to build websites for them from scratch. <br />
+This experience has enabled me to quickly understand the diverse requirements of organisations across different industries. <br />
+I enjoy working collaboratively within a team and designing websites tailored to organisations’ specific needs. <br />
+These projects have honed my ability to communicate effectively with diverse stakeholders including those without a technical background and have further developed my teamwork and communication skills.
 
 
 ## 🌐 Links:
