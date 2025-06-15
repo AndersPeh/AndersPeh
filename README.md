@@ -1,5 +1,5 @@
 # 💫 About Me:
-My passion for software development motivates me to self-learn React (TypeScipt) and .NET (C#) and build my personal project [StudentConnect] (https://github.com/AndersPeh/StudentConnect) in my free time. <br /> 
+My passion for software development motivates me to self-learn React (TypeScipt) and .NET (C#) and build my personal project [StudentConnect](https://github.com/AndersPeh/StudentConnect) in my free time. <br /> 
 
 I am eager to contribute to team projects while working alongside experienced developers. As such, I am seeking a software development internship to start from July or earlier. <br />
 
