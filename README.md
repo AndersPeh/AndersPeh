@@ -1,7 +1,7 @@
 # 💫 About Me:
 My passion for software development motivates me to self-learn React (TypeScipt) and .NET (C#) and build my personal project [StudentConnect](https://github.com/AndersPeh/StudentConnect) in my free time. <br /> 
 
-I am eager to contribute to team projects while working alongside experienced developers. As such, I am seeking a software development internship to start from July or earlier. <br />
+I am eager to contribute to team projects while working alongside experienced developers. <br />
 
 I have worked with several organisations in the Gold Coast to build websites for them from scratch. This experience has enabled me to quickly understand the diverse requirements of organisations across different industries. I enjoy working collaboratively within a team and designing websites tailored to organisations’ specific needs. <br />
 
