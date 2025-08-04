@@ -1,4 +1,4 @@
-### Hi there, I'm Anders 👋
+### Good day, I'm Anders ✨
 
 I'm a Master of IT student with a passion for building clean and user-focused applications using my full-stack development skills. My background in real estate has equipped me with strong stakeholder communication skills, allowing me to bridge the gap between technical implementation and business needs. I am driven by the process of identifying a problem, developing a solution and building it from scratch.
 
